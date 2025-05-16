@@ -1,3 +1,3 @@
 This is the description of my repo
 Modification in branch.
-Modification in both branchs.
+Modification in main branchs.
